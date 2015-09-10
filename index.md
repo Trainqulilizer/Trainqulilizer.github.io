@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to a ride with the Trainquilizer 🚂
+title: Trainquilizer 🚂
 ---
 
 ## We are looking for feedback
