@@ -1,0 +1,17 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /news/:year/:month/:day/:title/
+excerpt_separator: ""
+
+repository: https://github.com/trainquilizer/trainquilizer
+
+collections:
+  docs:
+    output: true
+
+name: Trainquilizer 🚂
+description: Trans-diskordianische Eisenbahn
+url: https://trainquilizer.github.io
+
+gems:
+  - jekyll-feed
